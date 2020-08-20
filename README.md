@@ -21,4 +21,4 @@
 This application is a reference to "AirBnB" developed for educational purposes during the Omnistack Week # 9 by RocketSeat.
 
 ## License
-- [MIT] (https://github.com/felipesantosdev/aircnc/blob/master/LICENSE)
+- [MIT](https://github.com/felipesantosdev/aircnc/blob/master/LICENSE)
