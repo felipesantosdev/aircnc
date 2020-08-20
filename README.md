@@ -4,7 +4,7 @@
 
 <h2 align="center">The "AirBnB" for Devs.</h2>
 
-### 🛠 Technologies:
+### 🛠  Technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Nodemon](https://nodemon.io/)
