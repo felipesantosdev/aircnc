@@ -2,6 +2,11 @@
   <img src="https://github.com/felipesantosdev/aircnc/blob/master/mobile/src/assets/logo@2x.png?raw=true" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/felipesantosdev/aircnc">
+
+</p>
+
 <h2 align="center">The "AirBnB" for Devs.</h2>
 
 ### 🛠  Technologies:
