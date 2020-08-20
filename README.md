@@ -4,7 +4,7 @@
 
 <h2 align="center">The "AirBnB" for Devs.</h2>
 
-### 🛠 Tecnologias:
+### 🛠 Technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Nodemon](https://nodemon.io/)
@@ -20,5 +20,5 @@
 ## Project:
 This application is a reference to "AirBnB" developed for educational purposes during the Omnistack Week # 9 by RocketSeat.
 
-## License
+## License:
 - [MIT](https://github.com/felipesantosdev/aircnc/blob/master/LICENSE)
